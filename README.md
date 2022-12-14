@@ -1,4 +1,4 @@
-# audience_lookalike_twitter
+# Audience Look-a-like Twitter Analytics Tool
 
 ## Introduction
 This is a twitter audience lookalike analytics tool.
