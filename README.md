@@ -1,9 +1,9 @@
 # audience_lookalike_twitter
 
-## INTRO
+## Introduction
 This is a twitter audience lookalike analytics tool.
 
-## How to use
+## How To Use
 xxx
 
 ## Reference
