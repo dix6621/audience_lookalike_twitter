@@ -7,5 +7,5 @@ This is a twitter audience lookalike analytics tool.
 xxx
 
 ## Reference
-Interest and follower look-alikes targeting
+Interest and follower look-alikes targeting/n
 https://business.twitter.com/en/help/campaign-setup/campaign-targeting/interest-and-follower-targeting.html
