@@ -2,7 +2,7 @@
 main lambda
 
 """
-from s3_functions import s3_pd_read_csv, s3_write_json
+from functions_s3 import s3_pd_read_csv, s3_write_json
 from functions_twitter import twitter_get_users_by, get_recent_tweets
 from functions_transform import chunks,string_chunks, chunk_by_char_len, add_date
 
