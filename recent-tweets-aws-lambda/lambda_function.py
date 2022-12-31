@@ -3,8 +3,8 @@ main lambda
 
 """
 from s3_functions import s3_pd_read_csv, s3_write_json
-from twitter_functions import twitter_get_users_by, get_recent_tweets
-from transform_functions import chunks,string_chunks, chunk_by_char_len, add_date
+from functions_twitter import twitter_get_users_by, get_recent_tweets
+from functions_transform import chunks,string_chunks, chunk_by_char_len, add_date
 
 import time
 import datetime
