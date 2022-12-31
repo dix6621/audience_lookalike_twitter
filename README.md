@@ -1,11 +1,11 @@
-# Audience Lookalike Twitter Analytics Tool
+# Twitter Community Analytics Tool
 
 ## Introduction
-This is a twitter audience lookalike analytics tool.
+xxx
 
 ## How To Use
 xxx
 
-## Reference
+## References
 Interest and follower look-alikes targeting by Twitter Business.  
 https://business.twitter.com/en/help/campaign-setup/campaign-targeting/interest-and-follower-targeting.html
